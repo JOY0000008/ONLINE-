@@ -9,7 +9,8 @@ time 9.
 There are many monkeys like Xuexue: we use a triple (v, a, b) to describe a monkey who is thirsty
 during time a and b, and must drink exactly v units of water during that period. Every monkey drinks
 at the same speed (i.e. one unit water per unit time).
-Unfortunately, people keep on doing something bad on the environment in Emei Mountain. Eventually, there are only one unpolluted places for monkeys to drink. Further more, the place is so small
+Unfortunately, people keep on doing something bad on the environment in Emei Mountain. Eventually, there are only one
+unpolluted places for monkeys to drink. Further more, the place is so small
 that at most m monkeys can drink water together. Monkeys like to help each other, so they want to
 find a way to satisfy all the monkeys’ need. Could you help them?
 Input
